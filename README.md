@@ -1,4 +1,7 @@
-# Web Scraping:
+# Web Scraping:   
+
+
+### Used Selenium, beautifulsoup4 etc.  
 
 Customized Web scraping from website pages given a root domain url.
 
